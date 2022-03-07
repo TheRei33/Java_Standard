@@ -2,14 +2,14 @@ package Java_Standard_2;
 
 public class TwotoTwo {
     public static void main(String[] args) {
-        int x =10,y=20;
-        int tmp = 0;
+        int x1 =10,y1=20;
+        int tmp1 = 0;
 
-        System.out.println("X: "+x+"Y: "+y);
+        System.out.println("X: "+x1+"Y: "+y1);
 
-        tmp =x;
-        x=y;
-        y=tmp;
-        System.out.println("X: "+x+"Y: "+y);
+        tmp1 =x1;
+        x1=y1;
+        y1=tmp1;
+        System.out.println("X: "+x1+"Y: "+y1);
     }
 }
