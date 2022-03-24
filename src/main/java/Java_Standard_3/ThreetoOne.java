@@ -9,5 +9,6 @@ public class ThreetoOne {
         i=5;
         ++i;
         System.out.println(i);
+
     }
 }
