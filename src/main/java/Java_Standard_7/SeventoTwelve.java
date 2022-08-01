@@ -20,7 +20,7 @@ class Card_01 {
     }
 }
 
-public class SeventoTwenty {
+public class SeventoTwelve {
     public static void main(String[] args) {
         Card_01 c = new Card_01("HEART", 10);
 //        c.NUMBER = 5;
