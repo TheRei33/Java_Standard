@@ -1,4 +1,4 @@
-package Java_Standard_2.Java_Standard_11;
+package Java_Standard_11;
 
 import java.util.ArrayList;
 import java.util.Collections;
