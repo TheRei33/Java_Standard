@@ -3,14 +3,14 @@
 Chapter 1 자바를 시작하기 전에
 1. 자바(Java Programming Language)
 2. 자바개발환경 구축하기 
-3. 자바로 프로그램작성하기
+3. 자바로 프로그램작성하기 <br>
 
 Chapter 2 변수(Variable)
 1. 변수와 상수
 2. 변수의 타입
 3. 진법
 4. 기본형(primitive type)
-5. 형변환
+5. 형변환 <br>
 
 Chapter 3 연산자(Operator)
 1. 연산자(operator)
@@ -18,25 +18,25 @@ Chapter 3 연산자(Operator)
 3. 산술 연산자
 4. 비교 연산자
 5. 논리 연산자
-6. 그 외의 연산자
+6. 그 외의 연산자<br>
 
 Chapter 4 조건문과 반복문
 1. 조건문
-2. 반복문
+2. 반복문<br>
 
 Chapter 5 배열(Array)
 1. 배열(array) 
 2. String배열
-3. 다차원 배열
+3. 다차원 배열<br>
 
 Chapter 6 객체지향 프로그래밍 I
 1. 객체지향언어
 2. 클래스와 객체
 3. 변수와 메서드
 4. 오버로딩(overloading)
-5. 생성자(constructor)
+5. 생성자(constructor)<br>
 
-6. 변수의 초기화
+6. 변수의 초기화<br>
 
 Chapter 7 객체지향 프로그래밍 II
 1. 상속(inheritance)
@@ -48,27 +48,27 @@ Chapter 7 객체지향 프로그래밍 II
 6. 추상클래스(abstract class)
 7. 인터페이스(interface) / 381
 7.1 인터페이스란?
-8. 내부 클래스(inner class)
+8. 내부 클래스(inner class)<br>
 
 Chapter 8 예외처리(Exception Handling)
-1. 예외처리(exception handling)
+1. 예외처리(exception handling)<br>
 
 Chapter 9 java.lang패키지와 유용한 클래스
 1. java.lang패키지
-2. 유용한 클래스
+2. 유용한 클래스<br>
 
 Chapter 10 날짜와 시간 & 형식화
 1. 날짜와 시간
 2. 형식화 클래스 
-3. java.time패키지
+3. java.time패키지<br>
 
 Chapter 11 컬렉션 프레임웍
-1. 컬렉션 프레임웍(Collection Framework)
+1. 컬렉션 프레임웍(Collection Framework)<br>
 
 Chapter 12 지네릭스, 열거형, 애너테이션
 1. 지네릭스(Generics) 
 2. 열거형(enums)
-3. 애너테이션(annotation)
+3. 애너테이션(annotation)<br>
 
 Chapter 13 쓰레드(Thread)
 1. 프로세스와 쓰레드 / 722
@@ -79,11 +79,11 @@ Chapter 13 쓰레드(Thread)
 6. 쓰레드 그룹(thread group) / 741
 7. 데몬 쓰레드(daemon thread) / 744
 8. 쓰레드의 실행제어 / 748
-9. 쓰레드의 동기화
+9. 쓰레드의 동기화<br>
 
 Chapter 14 람다와 스트림
 1. 람다식
-2. 스트림(stream)
+2. 스트림(stream)<br>
 
 Chapter 15 입출력(I/O)
 1. 자바에서의 입출력
@@ -92,8 +92,7 @@ Chapter 15 입출력(I/O)
 4. 문자기반 스트림
 5. 문자기반의 보조스트림
 6. 표준입출력과 File
-7. 직렬화(Serialization) / 934
-7.1 직렬화란?
+7. 직렬화(Serialization)<br>
 
 Chapter 16 네트워킹(Networking)
 1. 네트워킹(Networking)
